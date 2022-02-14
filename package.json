@@ -94,6 +94,7 @@
     "zone.js": "~0.10.2"
   },
   "dependencies": {
+    "@angular/localize": "^9.1.13",
     "tslib": "^1.10.0"
   }
 }
